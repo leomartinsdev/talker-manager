@@ -1,4 +1,4 @@
-# Talker Manager 🏪
+# Talker Manager 🎤
 Aplicação back-end de uma API RESTful de um CRUD onde o usuário pode cadastrar, visualizar, pesquisar, editar e excluir informações dos talkers (palestrantes).
 <br><br>
 O aplicativo foi desenvolvido utilizando Node.js e Express como framework para Node.js. Para fácil execução da aplicação em qualquer máquina, ela foi dockerizada.
